@@ -1,0 +1,5 @@
+{
+  "name": "Duolingo-style Vocabulary Trainer",
+  "description": "A simple voice-based vocabulary trainer that uses SpeechRecognition to check pronunciation.",
+  "requestFramePermissions": ["microphone"]
+}
